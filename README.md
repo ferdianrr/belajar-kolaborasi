@@ -1,2 +1,2 @@
 # belajar Kolaborasi
-Belajar di Github
+Belajar di Github semangat
